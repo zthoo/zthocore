@@ -11,11 +11,7 @@
 
     <name>ZthoCore</name>
 
-<<<<<<< HEAD
-    <description>Nowy system Minecraft!</description>
-=======
-    <description>New</description>
->>>>>>> a5181105d3ea4b0038b47bbef00063b7a46bdcf4
+    <description>Nowy system Minecraft</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
