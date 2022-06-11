@@ -1,4 +1,4 @@
-# zthoCore | Wersja: 1.0
+# zthoCore | Wersja: 1.0.1
 
 zthoCore to pakiet niezbędnych pluginów połączonych w jeden. Plugin narazie dostępny tylko na serwery **Bukkit**<br><br>
 
@@ -55,4 +55,3 @@ Aktualnie tylko na GitHubie ale w przyszłości będzie możliwość pobrania na
 > Dodano komende /vanish<br><br>
 > Dodano do config.yml nowy zapisek: WMessage - Welcome Message, ten zapisek zapowiada nowy skrypt czyli WelcomeMessage przy wejściu na serwer<br><br>
 > Dodano description do /pomoc i /vanish<br><br>
-> 
