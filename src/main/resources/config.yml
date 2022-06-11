@@ -2,4 +2,8 @@
 Motd: '&6zthoCore &e- &7Nowy system Minecraft!                &fStrona WWW: &chttps://core.ztho.pl/'
 
 # Welcome Message
+<<<<<<< HEAD
 WMessage: 'New update!'
+=======
+WMessage: 'New update!'
+>>>>>>> a5181105d3ea4b0038b47bbef00063b7a46bdcf4
