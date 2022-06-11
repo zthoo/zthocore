@@ -1,4 +1,4 @@
-# zthoCore | Wersja: 1.0
+# zthoCore | Wersja: 1.0.1
 
 zthoCore to pakiet niezbędnych pluginów połączonych w jeden. Plugin narazie dostępny tylko na serwery **Bukkit**<br><br>
 
@@ -26,7 +26,7 @@ zthoCore to pakiet niezbędnych pluginów połączonych w jeden. Plugin narazie 
 > W pliku config.yml, który znajduje się w folderze `ZthoCore`.
 
 ### Kiedy plugin będzie dostępny na Spigot/PaperSpigot?
-> W następnej aktualizacji postaramy się dodać więcej funkcji oraz możliwość działania pluginu na Spigocie i PaperSpigocie.
+> Plugin już jest dostępny na każdy silnik!
 
 ### Jest jakiś serwer gdzie mogę przetestować działanie serwera?
 > Narazie nie, jeżeli się plugin rozwinie to zrobie taki serwer! Narazie pozostaje wam go testować na prywatnych hostingach lub na waszym komputerze za pomocą [serwera Bukkit](https://getbukkit.org/get/92f15442e8a9edea8394b208ac08d667)!
@@ -55,4 +55,3 @@ Aktualnie tylko na GitHubie ale w przyszłości będzie możliwość pobrania na
 > Dodano komende /vanish<br><br>
 > Dodano do config.yml nowy zapisek: WMessage - Welcome Message, ten zapisek zapowiada nowy skrypt czyli WelcomeMessage przy wejściu na serwer<br><br>
 > Dodano description do /pomoc i /vanish<br><br>
-> 
