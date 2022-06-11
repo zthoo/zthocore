@@ -1,0 +1,10 @@
+name: ZthoCore
+version: '${project.version}'
+main: me.ztho.zthocore.ZthoCore
+api-version: 1.15
+authors: [ ztho ]
+description: Nowy system Minecraft
+website: https://ztho.pl/
+
+commands:
+  pomoc:
