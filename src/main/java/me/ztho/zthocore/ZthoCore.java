@@ -22,11 +22,15 @@ public final class ZthoCore extends JavaPlugin implements Listener {
     public void onEnable() {
         // Plugin startup logic
         super.onEnable();
-        System.out.print("\nzthoCore has started!\n");
+        System.out.print("---------------------------------------");
+        System.out.print("\n\n» Wlaczono plugin zthoCore wersji 1.0.1 | https://core.ztho.pl/ | https://github.com/zthoo/zthocore | Milej zabawy!\n");
+        System.out.print("\n» Wykryto nowa wersje pluginu zthoCore - 1.0.2 | Dostepny na https://core.ztho.pl/");
+        System.out.print("\n\n---------------------------------------\n\n");
         getServer().getPluginManager().registerEvents(new JoinLeaveListener(), this);
 
         // Commands
         getCommand("pomoc").setExecutor(new PomocCommand());
+        getCommand("vanish").setExecutor(new VanishCommand());
 
         // Events
         PluginManager pm = getServer().getPluginManager();

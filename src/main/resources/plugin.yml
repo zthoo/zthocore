@@ -8,3 +8,7 @@ website: https://ztho.pl/
 
 commands:
   pomoc:
+    description: Pokazuje dostępne komendy na serwerze
+  vanish:
+    description: Pozwala włączyć niewidzialność
+    permission: zcore.vanish

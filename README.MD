@@ -49,3 +49,10 @@ zthoCore to pakiet niezbędnych pluginów połączonych w jeden. Plugin narazie 
 <br><br><br>
 ## Gdzię mogę pobrać plugin?
 Aktualnie tylko na GitHubie ale w przyszłości będzie możliwość pobrania na naszej stronie! Pobierz tutaj [Klik!](https://github.com/zthoo/zthocore/releases)
+
+### Changelog
+> Dodano komendy do /pomoc (narazie działa tylko vanish i pomoc)<br><br>
+> Dodano komende /vanish<br><br>
+> Dodano do config.yml nowy zapisek: WMessage - Welcome Message, ten zapisek zapowiada nowy skrypt czyli WelcomeMessage przy wejściu na serwer<br><br>
+> Dodano description do /pomoc i /vanish<br><br>
+> 
