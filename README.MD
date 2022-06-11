@@ -55,3 +55,4 @@ Aktualnie tylko na GitHubie ale w przyszłości będzie możliwość pobrania na
 > Dodano komende /vanish<br><br>
 > Dodano do config.yml nowy zapisek: WMessage - Welcome Message, ten zapisek zapowiada nowy skrypt czyli WelcomeMessage przy wejściu na serwer<br><br>
 > Dodano description do /pomoc i /vanish<br><br>
+> Dodano nową funkcje
